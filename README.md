@@ -120,8 +120,10 @@ Two Ethiopian Philosophers of the Seventeenth Century
 
 
 3. Video sources
-   * <i>[African Philosophy and Enlightenment][x4] : Philosophy Tube<i>
-
-4. Quotes
+   * <i>[African Philosophy and Enlightenment][x4] : Philosophy Tube</i>
+   * <i>[Zara Yaqob, The Ethiopian Philosopher][x5]: ETV documentary</i>
 
 [x4]: https://www.youtube.com/watch?v=KUicQL-Vz8c
+[x4]: https://www.youtube.com/watch?v=niZ7ZOgk47I
+
+4. Quotes
