@@ -124,6 +124,6 @@ Two Ethiopian Philosophers of the Seventeenth Century
    * <i>[Zara Yaqob, The Ethiopian Philosopher][x5]: ETV documentary</i>
 
 [x4]: https://www.youtube.com/watch?v=KUicQL-Vz8c
-[x4]: https://www.youtube.com/watch?v=niZ7ZOgk47I
+[x5]: https://www.youtube.com/watch?v=niZ7ZOgk47I
 
 4. Quotes
