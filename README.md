@@ -5,19 +5,20 @@
 <hr>
 
 <b>Hatata</b> (/hɑːˈtɑːtə/; Ge'ez: ሓተታ ḥatäta "inquiry") is a 1667 ethical philosophical treatise by the Abyssinian philosopher 
-[Zera Yacob][1],
+[Zera Yacob][x1],
 written at the request of his patron's son
-[Walda Heywat][2]. 
-It has often been compared by scholars to Descartes' Discours de la methode (1637). ([Wikipedia][3])
+[Walda Heywat][x2]. 
+It has often been compared by scholars to Descartes' Discours de la methode (1637). ([Wikipedia][x3])
 
-[1]: https://en.wikipedia.org/wiki/Zera_Yacob_(philosopher)
-[2]: https://en.wikipedia.org/wiki/Walda_Heywat
-[3]: https://en.wikipedia.org/wiki/Hatata
+[x1]: https://en.wikipedia.org/wiki/Zera_Yacob_(philosopher)
+[x2]: https://en.wikipedia.org/wiki/Walda_Heywat
+[x3]: https://en.wikipedia.org/wiki/Hatata
 ---
 
 <b>Resources:</b>
 
-1. Originals and translations
+1. **Originals and translations**\
+
 [a]
 -- Ge'ez Hatata Za'ra Ya'qob
 -- Source Unknown
@@ -38,7 +39,8 @@ It has often been compared by scholars to Descartes' Discours de la methode (163
 -- Claude Sumner
 -- From Ethiopian Philosophy
  
-2. Critiques and commentaries on the Hateta
+2. **Critiques and commentaries on the Hateta**\
+
 [1]
 -- The Contribution of Native Ethiopian Philosophers, Zara Yacob and Wolde Hiwot, to Ethiopian Philosophy
 -- Tassew Asfaw
@@ -102,8 +104,8 @@ Two Ethiopian Philosophers of the Seventeenth Century
 
 
 3. Video sources
-   * <i>[African Philosophy and Enlightenment][4] : Philosophy Tube<i>
+   * <i>[African Philosophy and Enlightenment][x4] : Philosophy Tube<i>
 
 4. Quotes
 
-[4]: https://www.youtube.com/watch?v=KUicQL-Vz8c
+[x4]: https://www.youtube.com/watch?v=KUicQL-Vz8c
