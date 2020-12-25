@@ -17,7 +17,7 @@ It has often been compared by scholars to Descartes' Discours de la methode (163
 
 <b>Resources:</b>
 
-1. **Originals and Translations**\
+1. **Originals and Translations**
 
 [T1]
 -- Ge'ez Hatata Za'ra Ya'qob
@@ -91,10 +91,6 @@ Two Ethiopian Philosophers of the Seventeenth Century
 -- Teodoros Kiros
 -- Suffolk University
 
-[C7]
--- Seventeenth century Rationalist: On the rationality of the heart.
--- Tedros Kiros
-
 [C8]
 -- Zar'a Ya'aqob: The ethiopian philosopher founder of "Hatataism"
 -- Mathias Victorien Ntep
@@ -114,7 +110,6 @@ Two Ethiopian Philosophers of the Seventeenth Century
 [C5]: https://github.com/avendesta/Hatata/blob/master/CommentariesAndCritiques/05%20-%20blackwell-companion-to-african-philosophy.pdf
 [C6]: https://github.com/avendesta/Hatata/blob/master/CommentariesAndCritiques/06%20-%20the-meditations-of-zara-yaquob-by-tedros-kiros.pdf
 [C7]: https://github.com/avendesta/Hatata/blob/master/CommentariesAndCritiques/07%20-%20seventeenth-century-rationalist.pdf
-[C8]: https://github.com/avendesta/Hatata/blob/master/CommentariesAndCritiques/08%20-%20e2809czara-yacob_s-theory-of-truthe2809d-by-abel-cherinet.pdf
 [C9]: https://github.com/avendesta/Hatata/blob/master/CommentariesAndCritiques/09%20-%20zara-yaaqob-the-ethiopian-philosopher-founder-of-hatataism-by-mathias-victorien-ntep.pdf
 [C10]: https://github.com/avendesta/Hatata/blob/master/CommentariesAndCritiques/10%20-%20philosopher-zereyacob-professor-habte-churnet.pdf
 
