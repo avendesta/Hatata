@@ -25,18 +25,18 @@ It has often been compared by scholars to Descartes' Discours de la methode (163
     - Za'ra Ya'qob
     - Source Unknown 
 
-- [Amaric Translation][T2]
-    - Unknown translator
-    - Unknown date
+- [English translation][T4]
+    - Claude Sumner
+    - From Ethiopian Philosophy
 
 - [Amharic translation][T3]
     - Getachew Haile
     - College Ville, Minissota
     - 2006 E.C.
 
-- [English translation][T4]
-    - Claude Sumner
-    - From Ethiopian Philosophy
+- [Amharic Translation][T2]
+    - Unknown translator
+    - Unknown date
 
 [T1]: https://bit.ly/31qehzU
 [T2]: https://bit.ly/3qOA4ts
