@@ -19,7 +19,8 @@ It has often been compared by scholars to Descartes' Discours de la methode (163
 </center>
 
 
-- [Ge'ez Hatata Za'ra Ya'qob][T1] 
+- [Original Ge'ez Hatata][T1]
+    - Za'ra Ya'qob
     - Source Unknown 
 
 - [Amaric Translation][T2]
