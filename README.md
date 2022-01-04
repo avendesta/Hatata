@@ -11,6 +11,8 @@ It has often been compared by scholars to Descartes' Discours de la methode (163
 [x2]: https://en.wikipedia.org/wiki/Walda_Heywat
 [x3]: https://en.wikipedia.org/wiki/Hatata
 
+![Zera_Yacob](https://user-images.githubusercontent.com/53615807/148004762-80582e37-05e0-422d-ba71-22cf66a982af.jpg)
+
 ---
 <h2>Resources:</h2>
 
@@ -111,5 +113,4 @@ It has often been compared by scholars to Descartes' Discours de la methode (163
 [v4]: https://bit.ly/32Sdisx
 [v5]: https://bit.ly/3JGo9qk
 
-![Zera_Yacob](https://user-images.githubusercontent.com/53615807/148004762-80582e37-05e0-422d-ba71-22cf66a982af.jpg)
 
