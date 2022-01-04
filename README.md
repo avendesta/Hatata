@@ -7,9 +7,9 @@
 <b>Hatata</b> (/hɑːˈtɑːtə/; Ge'ez: ሓተታ ḥatäta "inquiry") is a 1667 ethical philosophical treatise by the Abyssinian philosopher [Zera Yacob][x1], written at the request of his patron's son [Walda Heywat][x2]. 
 It has often been compared by scholars to Descartes' Discours de la methode (1637). ([Wikipedia][x3])
 
-[x1]: "https://en.wikipedia.org/wiki/Zera_Yacob_(philosopher)"
-[x2]: "https://en.wikipedia.org/wiki/Walda_Heywat"
-[x3]: "https://en.wikipedia.org/wiki/Hatata"
+[x1]: https://en.wikipedia.org/wiki/Zera_Yacob_(philosopher)
+[x2]: https://en.wikipedia.org/wiki/Walda_Heywat
+[x3]: https://en.wikipedia.org/wiki/Hatata
 
 ---
 <h2>Resources:</h2>
